@@ -2,7 +2,7 @@ SpreeBestSellers
 ================
 
 This extension provides the possibility to show the best sellers in your shop.
-
+fix for Spree v 3.3.0 (not tested!!)
 
 
 Install
@@ -10,7 +10,7 @@ Install
 
 Add the following line to your application's Gemfile.
 
-gem "spree_best_sellers", :git => "https://github.com/sylvinho81/spree_best_sellers.git", :branch => '3-0-stable'
+gem 'spree_best_sellers', :git => 'https://github.com/gofmanaa/spree_best_sellers.git'
 
 bundle install
 
